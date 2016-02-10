@@ -1,4 +1,4 @@
-# todo-app-with-javascript
+# Todo app with javascript
 I thought I know Javascript pretty well. Tuned out to be not...
 
 This is me messing around with Javascript and little frustrated by finding myself struggling to make a simple Todo app with Javascript.
