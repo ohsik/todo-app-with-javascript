@@ -61,7 +61,7 @@ mainInput.addEventListener("keyup", function(e){
 
 // Fuction to show total message
 function totalMsg(todoid, todoDone){
-    return totalTodos.innerHTML = '<b>' + todoid + '</b> things to do / <b>' + todoDone + '</b> finished';
+    return totalTodos.innerHTML = '<b>' + todoid + '</b> things to do / <b>' + todoDone + '</b> completed';
 }
 
 // Function to check Class name on elements
